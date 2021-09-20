@@ -1,1 +1,1 @@
-Including the k-space data that correspond to all image results shown in the manuscript
+The k-space data that correspond to all image results shown in the manuscript

@@ -109,3 +109,13 @@ k = h5py.File(savepath+'label.h5','w')
 k['k-space'] = dlab
 f.close()
 k.close()
+
+ksp = dlab-dout
+ksp = ksp[:,0,:,:]+1j*ksp[:,1,:,:]
+ksp = ksp.transpose(1,0,2)
+ksp = np.reshape(ksp, (128, 126, 32,2), order="F")
+ksp = ksp[:,:,:,0]-ksp[:,:,:,1]
+
+plt.figure(1)
+plt.imshow(np.log10(abs(ksp[:,:,15])),cmap='gray')
+plt.savefig(savepath+'ksp.tif')

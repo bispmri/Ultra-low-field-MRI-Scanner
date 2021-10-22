@@ -1,0 +1,25 @@
+Preparing to transfer data:  0 hr 0 min 0 sec
+Processing material properties:  0 hr 0 min 0 sec
+Processing element groups:  0 hr 0 min 0 sec
+Processing drop test gap nodes:  0 hr 0 min 0 sec
+Updating thickness for shell regions:  0 hr 0 min 0 sec
+Processing rconst for elements:  0 hr 0 min 0 sec
+Processing egroups:  0 hr 0 min 0 sec
+Transferring loads and boundary conditions:  0 hr 0 min 1 sec
+Generating body pairs to check contact:  0 hr 0 min 0 sec
+Generating contacts:  0 hr 0 min 0 sec
+Number of Contacts: 0
+Transfer SL1 data:  0 hr 0 min 0 sec
+Generate more accurate contact data:  0 hr 0 min 0 sec
+Number of contact data: 0
+Transfer beam/joint contact data:  0 hr 0 min 0 sec
+Transferring other special loads:  0 hr 0 min 0 sec
+Transferring bearing loads:  0 hr 0 min 0 sec
+Transferring mass elements:  0 hr 0 min 0 sec
+Transferring point loads:  0 hr 0 min 0 sec
+Transferring distributed beam loads:  0 hr 0 min 0 sec
+Transferring rigid bodies:  0 hr 0 min 0 sec
+Transferring component no penetration:  0 hr 0 min 0 sec
+Writing Data:  0 hr 0 min 0 sec
+Transferring analysis options:  0 hr 0 min 0 sec
+Total midsurf mapping:  0 hr 0 min 0 sec

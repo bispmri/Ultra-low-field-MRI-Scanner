@@ -1,0 +1,11 @@
+paths:
+  data_path: ./data/original
+  output_path: ./data/training
+
+seed: 28
+
+train_test_ratio: 0.3
+
+validation_test_ratio: 0.5
+
+lr_image_size: [80, 80, 72]
